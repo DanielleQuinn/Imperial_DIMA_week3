@@ -1,2 +1,1 @@
-  
-install.packages("dplyr")
+install.packages(c("readxl", "dplyr"))
