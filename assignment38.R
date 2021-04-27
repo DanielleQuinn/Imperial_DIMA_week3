@@ -1,4 +1,7 @@
 # ---- Prepare Your R Workspace ----
+# Please note that using this online R session you do not
+# need to set your working directory!
+
 # Load Packages
 library(readxl)
 library(dplyr)
